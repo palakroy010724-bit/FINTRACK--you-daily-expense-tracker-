@@ -1,19 +1,16 @@
-# FINTRACK--you-daily-expense-tracker-
-FinTrack is a lightweight, full-stack financial tracking application built to help users monitor daily income, track recurring monthly expenses, and maintain real-time account visibility
-Designed purely for logging and analytics rather than processing active payments, the platform provides proactive low-balance alerts, upcoming bill schedules, and visual cash-flow breakdowns to give users complete control over their personal finances.
+# React + Vite
 
-Key Features
-Income & Expense Logging: Categorized daily transaction tracking with quick-add capabilities.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Prescheduled Expense Engine: Manage recurring monthly bills and track upcoming due dates.
+Currently, two official plugins are available:
 
-Low-Balance Alert System: Configurable safety thresholds that trigger instant notifications when balances dip too low.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Visual Dashboard: Interactive expense breakdowns and monthly cash-flow analytics.
+## React Compiler
 
-Tech Stack
-Backend: Java / Spring Boot (REST APIs, JPA, Spring Security)
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-Frontend: React / Web Dashboard
+## Expanding the ESLint configuration
 
-Database: PostgreSQL / MySQL
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
