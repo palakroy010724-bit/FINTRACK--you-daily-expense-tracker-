@@ -53,3 +53,4 @@ Ensure you have **Node.js** (v18 or higher) installed on your machine.
    ```bash
    git clone [https://github.com/your-username/fintrack.git](https://github.com/your-username/fintrack.git)
    cd fintrack
+backend : https://github.com/palakroy010724-bit/fintrack-backend 
