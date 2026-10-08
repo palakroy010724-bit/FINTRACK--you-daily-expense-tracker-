@@ -1,4 +1,5 @@
-# https://fintrack-you-daily-expense-tracker-pkpu0o9pv-palak-0ea3.vercel.app/
+# deployment link: 
+https://fintrack-you-daily-expense-tracker-pkpu0o9pv-palak-0ea3.vercel.app/
 
 # React + Vite
 
